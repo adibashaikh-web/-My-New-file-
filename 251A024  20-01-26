@@ -1,0 +1,9 @@
+#Calculate Area of rectangle
+
+l = int(input("Enter lenght: "1)
+
+b = int(input("Enter Breath: "))
+
+area = l × b 
+
+print(f"Area of Rectangle is {area}") 
