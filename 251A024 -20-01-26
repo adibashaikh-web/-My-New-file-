@@ -1,0 +1,9 @@
+
+
+1 #Calculate Area of circle
+
+2 int(input("Enter radius: "))
+
+3 areaг 3.14
+
+4 print("Area of circle is (area)")
