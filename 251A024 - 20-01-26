@@ -1,0 +1,13 @@
+Users > student.RCOESRV > Desktop > 251024 > first.py >
+
+name input("Enter your name") 
+
+print(f"Hello!", name) 2
+
+UIN input("Enter your UIN") 3
+
+print("My UIN is 251024"
+
+marks = input("Enter your marks in 12TH")
+
+print(f"I served {marks) in 12TH")
