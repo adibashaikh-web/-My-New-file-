@@ -1,0 +1,7 @@
+#Calculate Area of circle
+
+r = int(input("Enter radius: "))
+
+areaг = 3.14
+
+print(f"Area of circle is {area}")
