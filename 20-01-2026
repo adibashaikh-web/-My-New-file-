@@ -1,0 +1,13 @@
+#Calculate Simple Interest 
+
+print("UIN: 251A024, 20/01/2026")
+
+PA = int(input("Enter Principal Amount: "))
+
+RI = int(input("Enter Rate Interest: "))
+
+TP = int(input("Enter Time Period: "))
+
+SI = (PA + RI + TP)/100
+
+print("Simple Interest: ",SI)
