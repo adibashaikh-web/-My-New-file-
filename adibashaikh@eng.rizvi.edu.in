@@ -1,0 +1,14 @@
+#Calculate Gross Salary
+
+print("UIN: 2514024, 20/01/2026")
+
+BS = int(input("Enter Basuc salary: "))
+
+DA = 0.70 * BS
+
+TA = 0.30 * BS
+
+HRA = 0.10 * BS
+
+GS = BS + DA + HRA
+print(f"Gross Salary: {GS}")
