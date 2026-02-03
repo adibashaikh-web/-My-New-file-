@@ -1,0 +1,27 @@
+print("UIN: 251A024, Date: 03/02/2026")
+
+1 = []
+
+Name= []
+
+Age= []
+
+Section= []
+
+Name_1 = input("Enter your name: ") 
+
+Name_2 = input("Enter your friend's name")
+
+Age_1 int(input("Enter your age:"))
+
+Age_2 int(input("Enter your friend's age:"))
+
+section_1 = (input("Enter your section: "))
+
+section_2 = input("Enter your friend's section:")
+
+1.append((Name_1, Age_1, section_1))
+
+1.append((Name_2, Age_2, section_2))
+
+print(1)
