@@ -1,0 +1,11 @@
+#Calculate Area of Triangle
+
+print("UIN: 251A024, 20/01/2026")
+
+h = int(input("Enter Height: "))
+
+b = int(input("Enter Base: "))
+
+area = h * b * 1/2
+
+print(f"Area of Triangle is {area}") 
