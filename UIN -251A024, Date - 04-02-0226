@@ -1,0 +1,25 @@
+print("UIN: 251A024, Date: 04/02/2026")
+
+CET-251A001","2514002","2514024}
+
+JEE- ("251A001", "2514050","2514024"}
+
+NEET- ("2514022","251A024","2514006"}
+
+print(CET JEE|NEET)
+
+print("Total students appeard in the exam:", CET JEE|NEET)
+
+print("Students appeared in CET and JEE but not in NEET:", (CET&JEE)-NEET)
+
+print("Students appeared in JEE and NEET but not in CET:", (JEE&NEET)-CET)
+
+print("Students appeared in CET and NEET but not in JEE:", (CET&NEET)-JEE)
+
+print("Students appeared in only one exam:", (CET|JEE|NEET)-(CET&JEE&NEET))
+
+print("Students appeared in either CET or JEE:", CET JEE)
+
+print("Students appeard in CET or JEE but not in both exams:", (CET | JEE)-(CET&JEE))
+
+print("Students appeared in all three exams:", CET JEE|NEET)
